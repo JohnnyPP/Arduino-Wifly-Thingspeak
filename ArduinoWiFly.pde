@@ -1,5 +1,6 @@
 #include <WiFly.h>
 #include <Wire.h>
+#include "Credentials.h"
 
 
 
@@ -30,7 +31,7 @@ void setup()
   WiFly.begin();
   //delay(1000);
  
-  if (!WiFly.join("KKSOSTR", "11111111112"))
+  if (!WiFly.join(ssid, passphrase))
   {
     Serial.println("Association failed.");
     while (1)
