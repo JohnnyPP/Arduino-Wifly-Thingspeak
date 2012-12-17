@@ -1,0 +1,8 @@
+<VisualMicro>
+  <Program Name="ArduinoWiFly" Ext=".pde" Location="C:\Users\Kolan\Documents\Arduino\ArduinoWiFly" IncludeDebugInformation="0">
+    <Compile CompilerErrors="0" StopOnError="False" OptimiseLibs="True" OptimiseCore="True" BuildPath="C:\Users\Kolan\AppData\Local\VMicro\Arduino\Builds\ArduinoWiFly\uno" IncludesDebug="0" SketchName="ArduinoWiFly" IsCompiled="1" />
+    <Platform Name="Arduino">
+      <Board Name="uno" Description="Arduino Uno" CoreFolder="C:\arduino-1.0\hardware\arduino\cores\arduino" VariantFullPath="C:\arduino-1.0\hardware\arduino\variants\standard" />
+    </Platform>
+  </Program>
+</VisualMicro>
